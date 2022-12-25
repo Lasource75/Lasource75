@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lasource75
-- 👀 I’m interested in Blockchain technologies and cryptocurrencies :D
+- 👀 I’m interested in Blockchain technologies and cryptocurrencies
 - 🌱 I’m currently learning Solidity/Web3.js
 - 💞️ I’m looking to collaborate on decentralized projects
 - 📫 How to reach me : lasource75 at protonmail.com :)
